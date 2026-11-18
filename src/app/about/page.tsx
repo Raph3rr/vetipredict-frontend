@@ -40,7 +40,7 @@ export default function AboutPage() {
 
             <p className="mt-3 text-sm leading-7 text-slate-600">
               VetiPredict is an intelligent livestock health management and
-              disease prediction assistant built by KSOFT Technova. It helps
+              disease prediction assistant built by Victor Mark. It helps
               veterinarians, agricultural extension workers, and livestock
               owners review possible livestock diseases based on selected
               animal categories and observed clinical symptoms. It also
