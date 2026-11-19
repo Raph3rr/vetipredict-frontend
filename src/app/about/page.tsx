@@ -273,7 +273,7 @@ export default function AboutPage() {
                 </a>
               </p>
 
-              <p className="mt-2">License: MIT</p>
+              
             </div>
           </section>
 

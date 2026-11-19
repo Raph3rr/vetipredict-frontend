@@ -92,7 +92,7 @@ export default function WelcomePage() {
         <footer className="mt-14 border-t pt-6 flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex gap-3">
             <Link href="/about" className="text-sm text-slate-600 hover:text-slate-900">About</Link>
-            <a href="mailto:hello@ksoft.example" className="text-sm text-slate-600 hover:text-slate-900">Contact</a>
+            <a href="mailto:hello@victormark@gmail.com" className="text-sm text-slate-600 hover:text-slate-900">Contact</a>
           </div>
         </footer>
       </div>
