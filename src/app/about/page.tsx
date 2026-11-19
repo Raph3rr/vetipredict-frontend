@@ -108,13 +108,12 @@ export default function AboutPage() {
                   </p>
 
                   <p className="mt-3 text-sm leading-7 text-slate-600">
-                    The current dataset contains 3,000 records distributed
-                    across the ten livestock categories. It is a
-                    literature-informed, synthetically generated dataset
-                    designed using veterinary disease and symptom information
-                    from established references. It is not a collection of
-                    3,000 confirmed clinical cases from farms or veterinary
-                    laboratories.
+                    The current dataset contains 1,515 records distributed
+                    across ten livestock categories. It is literature-informed
+                    and synthetically generated using veterinary disease and
+                    symptom information from established references. It is not
+                    a collection of 1,515 confirmed clinical cases from farms
+                    or veterinary laboratories.
                   </p>
 
                   <Link
@@ -249,7 +248,7 @@ export default function AboutPage() {
                   <li>
                     Disease Dataset:{" "}
                     <code className="break-all">
-                      vetipredict_livestock_diseases_verified-v2.csv
+                      livestock_diseases.csv
                     </code>
                   </li>
 
